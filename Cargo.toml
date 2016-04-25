@@ -1,0 +1,10 @@
+[package]
+name = "talkative"
+version = "0.1.0"
+authors = ["Kevin Combriat <kcombriat.soat@tf1.fr>"]
+
+[dependencies]
+iron = "*"
+router = "*"
+rusqlite = "*"
+rustc-serialize = "*"
